@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Cars>
+	<Car>
+		<Name>Megan</Name>
+		<Group>Renault</Group>
+	</Car>
+	<Car>
+		<Name>Clio2</Name>
+		<Group>Renault</Group>
+	</Car>
+	<Car>
+		<Name>Clio3</Name>
+		<Group>Renault</Group>
+	</Car>
+	<Car>
+		<Name>Clio4</Name>
+		<Group>Renault</Group>
+	</Car>
+	<Car>
+		<Name>Clio5</Name>
+		<Group>Renault</Group>
+	</Car>
+	<Car>
+		<Name>208</Name>
+		<Group>Peugeot</Group>
+	</Car>
+	<Car>
+		<Name>308</Name>
+		<Group>Peugeot</Group>
+	</Car>
+	<Car>
+		<Name>508</Name>
+		<Group>Peugeot</Group>
+	</Car>
+</Cars>
