@@ -10,23 +10,23 @@
 		<Group>Renault</Group>
 	</Car>
 	<Car>
-		<Name>Clio3</Name>
+		<Name>R5</Name>
 		<Group>Renault</Group>
 	</Car>
 	<Car>
-		<Name>Clio4</Name>
+		<Name>MeganRS</Name>
 		<Group>Renault</Group>
 	</Car>
 	<Car>
-		<Name>Clio5</Name>
+		<Name>ClioRS</Name>
 		<Group>Renault</Group>
 	</Car>
 	<Car>
-		<Name>208</Name>
+		<Name>206</Name>
 		<Group>Peugeot</Group>
 	</Car>
 	<Car>
-		<Name>308</Name>
+		<Name>306</Name>
 		<Group>Peugeot</Group>
 	</Car>
 	<Car>
